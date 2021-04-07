@@ -10,9 +10,9 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 
 ## 📬 Get in touch
 
-- Web: [https://portfolio-86b5f.web.app/][1]
-- LinkedIn: [https://www.linkedin.com/in/mick-p-193190200/][2]
-- Facebook: [https://www.facebook.com/mick.ping.54/][3]
+<img align="left" alt="Mick" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://portfolio-86b5f.web.app/)
+[<img align="left" alt="Mick | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/mick.ping.54/)
+[<img align="left" alt="Mick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mick-p-193190200/)
 
 ## &#x1f4c8; My GitHub Stats
 
