@@ -19,3 +19,5 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 ## &#x1f4c8; My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub2code&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lub2code&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
