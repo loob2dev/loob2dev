@@ -16,10 +16,4 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/lub2code/lub2code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub2code&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&count_private=true)
