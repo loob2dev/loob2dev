@@ -22,3 +22,4 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub2code)](https://github.com/lub2code/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&count_private=true)
