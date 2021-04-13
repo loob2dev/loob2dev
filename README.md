@@ -15,7 +15,8 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 [<img align="left" alt="Mick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mick-p-193190200/)
 ---
 
-
+---
 ## My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub2code&show_icons=true&theme=radical)
+---
