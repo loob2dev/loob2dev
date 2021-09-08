@@ -18,5 +18,5 @@ Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your app
 ---
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lub2code&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loob2dev&show_icons=true&theme=radical)
 ---
